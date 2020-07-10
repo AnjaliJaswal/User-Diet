@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "624149921147",
+    "firebase_url": "https://diet-consutant-dietician.firebaseio.com",
+    "project_id": "diet-consutant-dietician",
+    "storage_bucket": "diet-consutant-dietician.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624149921147:android:a7eeb9968dbaeded8651de",
+        "android_client_info": {
+          "package_name": "com.example.dietconsutant_dietician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624149921147-hufec08eamppgci0bk3civlig55hkrlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dietconsutant_dietician",
+            "certificate_hash": "02f7affaec6b0ee593f7d3b26e4acf67a2369699"
+          }
+        },
+        {
+          "client_id": "624149921147-uhtclll18hrcbjiekqfms84e6cjiv8l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIcL7QFxS6Gggxs6o-zDClio04kEvVPS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624149921147-uhtclll18hrcbjiekqfms84e6cjiv8l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624149921147:android:0f4ddb9eb16d77808651de",
+        "android_client_info": {
+          "package_name": "com.example.userdiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624149921147-jf03mh1vn3e9clurksh89ds9oggjllv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.userdiet",
+            "certificate_hash": "02f7affaec6b0ee593f7d3b26e4acf67a2369699"
+          }
+        },
+        {
+          "client_id": "624149921147-uhtclll18hrcbjiekqfms84e6cjiv8l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIcL7QFxS6Gggxs6o-zDClio04kEvVPS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624149921147-uhtclll18hrcbjiekqfms84e6cjiv8l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
